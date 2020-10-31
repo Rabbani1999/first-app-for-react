@@ -6,6 +6,10 @@ import Welcome from './mycomponent/Welcome'
 
 import Arrow from './mycomponent/Arrow'
 import StateMathod from './mycomponent/StateMathod'
+import SetState from "./mycomponent/SetState";
+import Condition1 from "./mycomponent/Conditon1";
+import ElementCondition from "./mycomponent/ElementConditon";
+import Refresh from "./mycomponent/Refresh";
 
 function App() {
   return (
@@ -16,6 +20,10 @@ function App() {
 
       <Arrow></Arrow>
       <StateMathod></StateMathod>
+      <SetState></SetState>
+      <Condition1></Condition1>
+      <ElementCondition></ElementCondition>
+      <Refresh></Refresh>
 
       {/* <bootstrapTest></bootstrapTest> */}
       {/*  */}
